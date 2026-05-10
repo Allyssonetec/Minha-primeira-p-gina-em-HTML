@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content= "width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Meus sites favoritos: ALLYSSON WINCLER</title>
+
+</head>
+    <body>
+        <h1> Meus sites preferidos. </h1>
+            <h6> by Allysson </h6>
+            <figure>
+
+                <h4> Educação Pública </h4>
+
+                <img src="firefighter.jpg" alt= "Html 5 e CSS 3" width="600" height="400"> 
+
+                <figcaption> 
+                    Logo HTML 5 e CSS
+                </figcaption>            
+        
+                <a href="https://educacaopublica.corpodebombeiros.sp.gov.br/" target="_blank">
+                Educação Pública</a>
+
+            </figure>
+
+            <figure>
+
+                <h4> Exército Brasileiro </h4>
+
+                <img src="soldado.jpg" alt= "Html 5 e CSS 3" width="400" height="500">
+                
+                <figcaption> 
+                    Logo HTML 5 e CSS
+                </figcaption>            
+        
+                <a href="https://www.eb.mil.br/" target="_blank">
+                Exército Brasileiro</a>
+
+            </figure>
+
+            <figure>
+                
+                <h4> Águia Salvando Vidas </h4>
+
+                <img src="águia praia.jpg" alt= "Html 5 e CSS 3" width="500" height="500">
+                
+                <figcaption> 
+                    Logo HTML 5 e CSS
+                </figcaption>
+                
+                <a href="https://www.policiamilitar.sp.gov.br/noticias/noticia-interna/2017/2/238/helicoptero-aguia-salvando-vidas" target="_blank">
+                Águia Salvando Vidas</a>
+        
+                
+
+            </figure>
+
+            <figure>
+                
+                <h4> Samu, espere ser atendido </h4>
+
+                <img src="Samu.jpg" alt= "Html 5 e CSS 3" width="600" height="400">
+                
+                <figcaption> 
+                    Logo HTML 5 e CSS
+                </figcaption>
+                
+                <a href="https://samues.com.br/" target="_blank">
+                Samu 192</a>
+        
+                
+
+            </figure>
+
+            <figure>
+                
+                <h4> Polícia Militar do Estado de São Paulo </h4>
+
+                <img src="Polícia.jpg" alt= "Html 5 e CSS 3" width="600" height="350">
+                
+                <figcaption> 
+                    Logo HTML 5 e CSS
+                </figcaption>
+                
+                <a href="https://www.policiamilitar.sp.gov.br/" target="_blank">
+                Polícia Militar do Estado de São Paulo</a>
+        
+                
+
+            </figure>
+    </body>
+</html>
